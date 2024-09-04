@@ -1,0 +1,6 @@
+{
+  "name": "pig-latin",
+  "bin": {
+    "pig-latin": "./pigLatin.js"
+  }
+}
